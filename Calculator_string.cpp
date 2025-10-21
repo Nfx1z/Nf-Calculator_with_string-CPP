@@ -1,6 +1,5 @@
 /*
-                                THIS CODE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-                                BY : VKEY
+                                BY : Nfx1z
 */
 
 // =========================================== PURPOSE OF THIS PROGRAM =================================================
@@ -425,3 +424,4 @@ void bracket(std::string& str, float& result, float& sum, int& indexBegin, int& 
     // insert(index, string)
     str.insert(indexBegin, tempStr);
 }
+
